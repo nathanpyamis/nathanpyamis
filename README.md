@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanpyamis
-- 👀 I’m interested in learning Javascript, Ajax, Jquery, Nodejs, java and php...
+- 👀 I’m interested in learning Javascript, HTML, CSS and Python...
 - 🌱 I’m currently and ICT officer
 - 💞️ I’m looking to collaborate with senior ICT officers or IT engineers to grow my knowledge 
 - 📫 You can reach me through my email nathanpyamis@gmail.com 
